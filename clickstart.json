@@ -1,0 +1,17 @@
+{
+    "id": "sonatype-nexus",
+    "name": "Sonatype Nexus Maven Repository",
+    "description" : "Creates a Sonatype Nexus Maven repository",
+    "source": "github",
+    "doc-url" : ",
+    "icon" : "",
+    "app-package" : "http://www.sonatype.org/downloads/nexus-latest.war",
+    
+    "supported-by" : "cloudbees", 
+    "order" : 1,
+
+    "runtime": {
+        "type": "tomcat"
+    }
+}
+
