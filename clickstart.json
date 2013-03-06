@@ -3,7 +3,7 @@
     "name": "Sonatype Nexus Maven Repository",
     "description" : "Creates a Sonatype Nexus Maven repository",
     "source": "github",
-    "doc-url" : ",
+    "doc-url" : "https://github.com/swashbuck1r/sonatype-nexus-clickstart",
     "icon" : "",
     "app-package" : "http://www.sonatype.org/downloads/nexus-latest.war",
     
