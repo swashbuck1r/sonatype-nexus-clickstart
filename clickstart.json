@@ -11,7 +11,7 @@
     "order" : 1,
 
     "runtime": {
-        "type": "tomcat"
+        "type": "jboss"
     }
 }
 
